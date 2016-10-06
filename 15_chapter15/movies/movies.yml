@@ -1,0 +1,21 @@
+---
+1: !ruby/object:Movie
+  title: Noah
+  director: Will Smith
+  year: '2009'
+  id: 1
+2: !ruby/object:Movie
+  title: Hello Kitty
+  director: Jane
+  year: '2016'
+  id: 2
+3: !ruby/object:Movie
+  title: Perfect Match
+  director: TD James
+  year: '1999'
+  id: 3
+4: !ruby/object:Movie
+  title: The Originals
+  director: Claus Marcus
+  year: '2030'
+  id: 4
